@@ -1,0 +1,11 @@
+F:\Acedemic folder 3rd yr\.net projects\Speech Recognition application\obj\Debug\Speech Recognition application.csproj.AssemblyReference.cache
+F:\Acedemic folder 3rd yr\.net projects\Speech Recognition application\obj\Debug\Speech Recognition application.csproj.SuggestedBindingRedirects.cache
+F:\Acedemic folder 3rd yr\.net projects\Speech Recognition application\obj\Debug\Speech_Recognition_application.Form1.resources
+F:\Acedemic folder 3rd yr\.net projects\Speech Recognition application\obj\Debug\Speech_Recognition_application.Properties.Resources.resources
+F:\Acedemic folder 3rd yr\.net projects\Speech Recognition application\obj\Debug\Speech Recognition application.csproj.GenerateResource.cache
+F:\Acedemic folder 3rd yr\.net projects\Speech Recognition application\obj\Debug\Speech Recognition application.csproj.CoreCompileInputs.cache
+F:\Acedemic folder 3rd yr\.net projects\Speech Recognition application\bin\Debug\Speech Recognition application.exe.config
+F:\Acedemic folder 3rd yr\.net projects\Speech Recognition application\bin\Debug\Speech Recognition application.exe
+F:\Acedemic folder 3rd yr\.net projects\Speech Recognition application\bin\Debug\Speech Recognition application.pdb
+F:\Acedemic folder 3rd yr\.net projects\Speech Recognition application\obj\Debug\Speech Recognition application.exe
+F:\Acedemic folder 3rd yr\.net projects\Speech Recognition application\obj\Debug\Speech Recognition application.pdb

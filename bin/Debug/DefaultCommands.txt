@@ -1,0 +1,8 @@
+Hello
+How are you
+What is time now
+Wake up
+Stop talking
+Stop listning
+Show commands
+Hide commands
